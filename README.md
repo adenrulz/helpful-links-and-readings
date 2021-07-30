@@ -5,4 +5,4 @@ This is the list of the articles i found helpful during my journey of being a de
 
 
 <b>CSS Cheat Sheet</b>
-<a href="https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/" target="_blank">https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/</a>
+https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/
