@@ -5,7 +5,9 @@ This is the list of the articles i found helpful during my journey of being a de
 
 
 <b>CSS Cheat Sheet</b>
-https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/
+https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/ <br><br>
+<b>A Deep Dive on Skipping to Content(Accessibility)</b>
+https://css-tricks.com/a-deep-dive-on-skipping-to-content/
 
 
 <h2>For JS</h2> <br>
