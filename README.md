@@ -1,6 +1,10 @@
 # helpful-links-and-readings
 This is the list of the articles i found helpful during my journey of being a developer
+<h2>For Programming Logic</h2><br>
 
+https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/
+
+<br>
 <h2>For CSS</h2> <br>
 
 
