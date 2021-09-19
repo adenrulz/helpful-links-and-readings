@@ -13,6 +13,8 @@ https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-i
 https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/ <br><br>
 <b>A Deep Dive on Skipping to Content(Accessibility)</b>
 https://css-tricks.com/a-deep-dive-on-skipping-to-content/
+<br><br><b>CSS shadows</b>
+https://www.joshwcomeau.com/css/designing-shadows/
 
 
 <h2>For JS</h2> <br>
